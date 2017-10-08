@@ -9,7 +9,7 @@ public class Login extends BaseAutomation {
 	@Test
 	public void loginModule() throws InterruptedException{
 		Thread.sleep(5000);
-		System.out.println("login module");
+		System.out.println("login module test");
 	}
 	
 
